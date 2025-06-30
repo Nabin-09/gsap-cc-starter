@@ -1,5 +1,10 @@
 const GsapTo = () => {
   // TODO: Implement the gsap.to() method
+  useGSAP = () =>{
+      useGSAP(()={
+        
+      },[])
+  }
 
   return (
     <main>
